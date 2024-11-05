@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35325.158
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineLibMgmtPrj", "OnlineLibMgmtPrj\OnlineLibMgmtPrj.csproj", "{58A763EC-F7F3-4E13-84D2-FABDB051D61D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58A763EC-F7F3-4E13-84D2-FABDB051D61D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58A763EC-F7F3-4E13-84D2-FABDB051D61D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58A763EC-F7F3-4E13-84D2-FABDB051D61D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58A763EC-F7F3-4E13-84D2-FABDB051D61D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67CBB5F3-1D4C-48F5-BB2E-9A36B424909D}
+	EndGlobalSection
+EndGlobal
