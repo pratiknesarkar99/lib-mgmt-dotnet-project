@@ -173,7 +173,7 @@
                     
                     <div class="form-group">
                         <a href="usersignup.aspx">
-                           <asp:Button class="btn btn-success btn-block btn-lg" ID="Button3" runat="server" Text="Sign Up" />
+                           <asp:Button class="btn btn-success btn-block btn-lg" ID="Button3" runat="server" Text="Sign Up" OnClick="Button3_Click" />
                         </a>
                     </div>
     
