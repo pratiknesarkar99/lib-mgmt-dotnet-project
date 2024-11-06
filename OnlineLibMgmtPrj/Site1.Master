@@ -1,4 +1,5 @@
 ﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="OnlineLibMgmtPrj.Site1" %>
+<%--Copyright 2024. Pratik Nesarkar--%>
 
 <!DOCTYPE html>
 
@@ -22,7 +23,7 @@
     <script src="bootstrap/js/bootstrap.min.js"></script>
 
     <asp:ContentPlaceHolder ID="head" runat="server">
-    </asp:ContentPlaceHolder>
+    </asp:ContentPlaceHolder>   
 </head>
 <body>
     <form id="form1" runat="server">
