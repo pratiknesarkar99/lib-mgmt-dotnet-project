@@ -2173,10 +2173,12 @@
     <Content Include="imgs\img2.png" />
     <Content Include="imgs\img3.png" />
     <Content Include="imgs\instn.png" />
+    <Content Include="imgs\literature.png" />
     <Content Include="imgs\login.png" />
     <Content Include="imgs\signup.png" />
     <Content Include="imgs\stack-of-books.png" />
     <Content Include="imgs\user.png" />
+    <Content Include="imgs\writer.png" />
     <Content Include="membermanagement.aspx" />
     <Content Include="userlogin.aspx" />
     <Content Include="userprofile.aspx" />

@@ -11,6 +11,7 @@
                     <div class="row">
                         <div class="col">
                             <center>
+                                &nbsp;&nbsp;&nbsp;&nbsp;
                                 <img src="imgs/administrator.png" width="150" />
                             </center>
                         </div>

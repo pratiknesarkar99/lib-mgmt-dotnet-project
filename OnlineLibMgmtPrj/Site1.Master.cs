@@ -125,6 +125,8 @@ namespace OnlineLibMgmtPrj
             LinkButton10.Visible = false;
             LinkButton11.Visible = false;
             LinkButton12.Visible = false;
+
+            Response.Redirect("homepage.aspx");
         }
     }
 }
